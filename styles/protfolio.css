@@ -1,5 +1,5 @@
 *{
-    margin: 0;
+   
     font-family: 'Open Sans', sans-serif;
 }
 .text-primary{
@@ -36,7 +36,7 @@ h2{
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 51px 226px;
+    padding: 51px;
     font-size: 20px;
     align-items: center;
     
